@@ -1,4 +1,4 @@
-<h2 align="center">Hello, my name is Jose Simancas. Originally from Venezuela, I am currently based in Medellin, Colombia. With over eight years of experience in software development since 2016, I have developed a deep passion for all aspects of Information Technology.</h2>
+<h2 align="left">Hello, my name is Jose Simancas. Originally from Venezuela, I am currently based in Medellin, Colombia. With over eight years of experience in software development since 2016, I have developed a deep passion for all aspects of Information Technology.</h2>
 
 ###
 
